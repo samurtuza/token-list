@@ -44558,6 +44558,16 @@
       "tags": [
         "social-token"
       ]
+      {
+        "chainId": 101,
+        "address": "7hbS1Duxm5CiVaLGZkFaqMZGcrZka5p2zX5ruYxqQgvP",
+        "symbol": "DOHA",
+        "name": "Beautiful City",
+        "decimals": 0,
+        "logoURI": "https://github.com/samurtuza/DOHA/blob/main/Doha.png",
+        "tags": [
+          "social-token"
+        ]
     }
   ],
   "version": {
